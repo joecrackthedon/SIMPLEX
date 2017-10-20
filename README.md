@@ -8,3 +8,8 @@
 # 1. Dias Restantes
 # 2. Puntos Restantes
 # 3. Configuracion actual
+# resuelva mediante el metodo simplex cual es la mejor combinacion
+# tomar en cuenta el historial del programador(desarrollador), conforme sus combinaciones anteriores, y su efectividad historica, 
+# tomar en cuenta con quein hizo equipo anteriormente ???
+# definir la programacion lineal inicial 
+# definir como tomar el historico de los desarrolladores
