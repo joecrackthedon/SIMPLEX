@@ -13,3 +13,6 @@
 # tomar en cuenta con quein hizo equipo anteriormente ???
 # definir la programacion lineal inicial 
 # definir como tomar el historico de los desarrolladores
+# leer sobre monte carlo process
+# leer sobre distribucion normal
+# leer sobre crystal ball de oracle
